@@ -25,8 +25,7 @@ All your files and folders are presented as a tree in the file explorer. You can
 
 The project is structured as follows:
 
-kotlinCopy code
-"""
+
 ├── analyses
 ├── macros
 ├── models
@@ -35,7 +34,7 @@ kotlinCopy code
 ├── seeds
 ├── snapshots
 └── tests
-"""  
+  
 -   `seed/`: Contains the raw data to be uploaded to
 -   `models/`: Contains the SQL models for the data pipeline
 -   `analysis/`: Contains any analysis files or scripts
