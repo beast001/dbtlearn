@@ -2,10 +2,14 @@
 This project uses dbt to extract, transform, and load Airbnb data from public data sources. The goal is to create a reliable and maintainable data pipeline used by BI tools and other analysts.
 
 
+![graph](/assets/graph.jpg)
+
+
 ## Data Sources
 
  - [Airbnb Data](s3://dbtlearn) : This s3 bucket contains all the files used in this project.
 
+![Schema](/assets/schema.jpg)
 
 ## Tools Used
 
